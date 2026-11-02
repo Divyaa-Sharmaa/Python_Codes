@@ -1,0 +1,4 @@
+Priya,65000
+Rahul,45000
+Neha,85000
+Amit,55000
